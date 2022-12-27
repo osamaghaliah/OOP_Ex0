@@ -1,5 +1,5 @@
-<h1 align="center"> Observer Design Pattern • String-Related </h1>
-<h2> An Object-Oriented-Programming Assignment </h2>
+<h1 align="center"> :computer: Observer Design Pattern • String-Related :computer: </h1>
+<h2 align="center"> An Object-Oriented-Programming Assignment </h2>
  
  <h3> Definition: </h3>
  
@@ -18,7 +18,7 @@ _Object-oriented programming (OOP) is a computer programming model that organize
 * _GroupAdmin class which implements Sender interface is palying the role of a **Subject**._
 * _UndoableStringBuilder class which is the self-built customized StringBuilder plays the role of the essential object that is common between Sender & Member._
 
-<h3> JUNIT5 Classes: </h3>
+<h3> JUNIT5 Classes 	:heavy_check_mark: : </h3>
 
 _Each class has its own JUNIT testers that proves the correctness of its implementaion. The following Java files are the tests that are included in our code:_
 
