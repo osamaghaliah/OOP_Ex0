@@ -35,7 +35,7 @@ _Each class has its own JUNIT testers that proves the correctness of its impleme
 
 ![GroupAdminTests](https://user-images.githubusercontent.com/75171676/209718427-c112adff-e67d-4398-859e-591f530e5808.PNG)
 
-> _**NOTE: The whole testers were successfully passed.**_
+> **NOTE: _The whole testers were successfully passed._**
 
 <h3> Heap Trace In J.V.M: </h3>
 
@@ -60,7 +60,7 @@ _The above table results were fully relied on the following JUNIT tester of the 
 
 ![Capture](https://user-images.githubusercontent.com/75171676/209722646-aa1f670c-f792-44d6-bed0-6b255ad4a9ad.PNG)
 
-> _**NOTE: This test was sucessfully passed too.**_
+> **NOTE: _This test was sucessfully passed too._**
 
 
 
